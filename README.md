@@ -10,7 +10,7 @@ Importing and exploring the deposit dataset to understand its structure, column 
 
 Identifying and resolving missing values in key attributes such as credit status, contact details, and demographic information.
 
-Grouping and aggregating data by customer demographics — including education, job category, and marital status - to detect meaningful relationships.
+Grouping and aggregating data by customer demographics including education, job category, and marital status  to detect meaningful relationships.
 
 Analyzing behavioral trends, such as which demographic segments are more likely to possess credit.
 
@@ -20,15 +20,15 @@ Tools Used:
 
 Python
 
-Pandas — for data manipulation and analysis
+Pandas - for data manipulation and analysis
 
-NumPy — for numerical processing
+NumPy - for numerical processing
 
-Seaborn — for advanced statistical visualizations
+Seaborn - for advanced statistical visualizations
 
-Matplotlib — for plotting and chart customization
+Matplotlib - for plotting and chart customization
 
-Google Colab — as the primary development and analysis environment
+Google Colab - as the primary development and analysis environment
 
 Highlights of the Analysis:
 
