@@ -10,7 +10,7 @@ Importing and exploring the deposit dataset to understand its structure, column 
 
 Identifying and resolving missing values in key attributes such as credit status, contact details, and demographic information.
 
-Grouping and aggregating data by customer demographics — including education, job category, and marital status — to detect meaningful relationships.
+Grouping and aggregating data by customer demographics — including education, job category, and marital status - to detect meaningful relationships.
 
 Analyzing behavioral trends, such as which demographic segments are more likely to possess credit.
 
