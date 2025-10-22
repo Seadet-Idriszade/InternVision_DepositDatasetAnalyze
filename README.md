@@ -1,10 +1,10 @@
-Deposit Dataset Analysis
-Objective
+**Deposit Dataset Analysis
+Objective**
 
 The main purpose of this analysis is to explore customer behavior patterns, credit ownership, and banking interactions using the deposit dataset.
 The study also focuses on managing incomplete or inconsistent data to ensure high-quality insights and reliable conclusions.
 
-Workflow:
+**Workflow:**
 
 Importing and exploring the deposit dataset to understand its structure, column types, and data completeness.
 
@@ -16,7 +16,7 @@ Analyzing behavioral trends, such as which demographic segments are more likely 
 
 Applying data cleaning and imputation, using the most frequent (dominant) value within each group to handle missing information effectively.
 
-Tools Used:
+**Tools Used:**
 
 Python
 
@@ -30,7 +30,7 @@ Matplotlib - for plotting and chart customization
 
 Google Colab - as the primary development and analysis environment
 
-Highlights of the Analysis:
+**Highlights of the Analysis:**
 
 Comprehensive distribution analysis of clients based on education, occupation, and marital status.
 
